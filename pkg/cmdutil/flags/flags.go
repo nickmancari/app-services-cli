@@ -6,6 +6,7 @@ import "github.com/spf13/cobra"
 var (
 	ValidOutputFormats       = []string{"json", "yml", "yaml"}
 	CredentialsOutputFormats = []string{"env", "json", "properties"}
+	ValidOffsets             = []string{"timestamp", "absolute", "latest", "earliest"}
 )
 
 // IsValidInput checks if the input value is in the range of valid values
