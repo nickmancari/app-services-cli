@@ -590,6 +590,8 @@ github.com/prometheus/procfs v0.6.0/go.mod h1:cz+aTbrPOrUb4q7XlbU9ygM+/jj0fzG6c1
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
 github.com/redhat-developer/app-services-sdk-go v0.9.4 h1:YJkmzS1IqFTYADFmeg7V+OYnBssgky1/J49H5W5WuBg=
 github.com/redhat-developer/app-services-sdk-go v0.9.4/go.mod h1:X7S6t/ePwn6NQ8/ouA+VwiojWjGfDL6jytsL5LyA4Wc=
+github.com/redhat-developer/app-services-sdk-go v0.9.5-0.20210809114429-bb1f9a7aabe5 h1:tgY9Wd66E6aP5Pq7r13TxSTEApdc5SsuHS+KL5Q6EhE=
+github.com/redhat-developer/app-services-sdk-go v0.9.5-0.20210809114429-bb1f9a7aabe5/go.mod h1:bMtsRcV0Luzp/x+s4okjedmO3x6s7KBAGEIxh6TUcqA=
 github.com/redhat-developer/service-binding-operator v0.8.0 h1:33nrUwKm+Osr8I/g9qZZ6Hf41dfePfZndS02/xyAYiI=
 github.com/redhat-developer/service-binding-operator v0.8.0/go.mod h1:Z3fFouJGqy08JVWBFgb9ZyDcddcqx+AUIuMOeMFU8pQ=
 github.com/rivo/uniseg v0.1.0 h1:+2KBaVoUmb9XzDsrx/Ct0W/EYOSFf/nWTauy++DprtY=
@@ -833,6 +835,8 @@ golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84/go.mod h1:KelEdhl1UZF7XfJ
 golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602/go.mod h1:KelEdhl1UZF7XfJ4dDtk6s++YSgaE7mD/BuKKDLBl4A=
 golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914 h1:3B43BWw0xEBsLZ/NO1VALz6fppU3481pik+2Ksv45z8=
 golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914/go.mod h1:KelEdhl1UZF7XfJ4dDtk6s++YSgaE7mD/BuKKDLBl4A=
+golang.org/x/oauth2 v0.0.0-20210805134026-6f1e6394065a h1:4Kd8OPUx1xgUwrHDaviWZO8MsgoZTZYC3g+8m16RBww=
+golang.org/x/oauth2 v0.0.0-20210805134026-6f1e6394065a/go.mod h1:KelEdhl1UZF7XfJ4dDtk6s++YSgaE7mD/BuKKDLBl4A=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20181108010431-42b317875d0f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
