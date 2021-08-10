@@ -592,6 +592,8 @@ github.com/redhat-developer/app-services-sdk-go v0.9.4 h1:YJkmzS1IqFTYADFmeg7V+O
 github.com/redhat-developer/app-services-sdk-go v0.9.4/go.mod h1:X7S6t/ePwn6NQ8/ouA+VwiojWjGfDL6jytsL5LyA4Wc=
 github.com/redhat-developer/app-services-sdk-go v0.9.5-0.20210809114429-bb1f9a7aabe5 h1:tgY9Wd66E6aP5Pq7r13TxSTEApdc5SsuHS+KL5Q6EhE=
 github.com/redhat-developer/app-services-sdk-go v0.9.5-0.20210809114429-bb1f9a7aabe5/go.mod h1:bMtsRcV0Luzp/x+s4okjedmO3x6s7KBAGEIxh6TUcqA=
+github.com/redhat-developer/app-services-sdk-go v0.9.5-alpha1 h1:Ekl7zEnSwhMWJ2tgAkHDlcFxVTbFK9FxGgssJjltHIg=
+github.com/redhat-developer/app-services-sdk-go v0.9.5-alpha1/go.mod h1:bMtsRcV0Luzp/x+s4okjedmO3x6s7KBAGEIxh6TUcqA=
 github.com/redhat-developer/service-binding-operator v0.8.0 h1:33nrUwKm+Osr8I/g9qZZ6Hf41dfePfZndS02/xyAYiI=
 github.com/redhat-developer/service-binding-operator v0.8.0/go.mod h1:Z3fFouJGqy08JVWBFgb9ZyDcddcqx+AUIuMOeMFU8pQ=
 github.com/rivo/uniseg v0.1.0 h1:+2KBaVoUmb9XzDsrx/Ct0W/EYOSFf/nWTauy++DprtY=
