@@ -9,6 +9,7 @@ import (
 
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/factory"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/kafka/create"
+	"github.com/redhat-developer/app-services-cli/pkg/cmd/kafka/update"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/kafka/delete"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/kafka/describe"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/kafka/list"
@@ -25,6 +26,7 @@ func NewKafkaCommand(f *factory.Factory) *cobra.Command {
 	// add sub-commands
 	cmd.AddCommand(
 		create.NewCreateCommand(f),
+		update.NewUpdateCommand(f),
 		describe.NewDescribeCommand(f),
 		delete.NewDeleteCommand(f),
 		list.NewListCommand(f),

@@ -5,3 +5,11 @@ one = "kafka"
 [kafka.cmd.shortDescription]
 description = "Short description for command"
 one = "Create, view, use, and manage your Apache Kafka instances"
+
+[kafka.update.flag.id]
+description = 'Description for the --id flag'
+one = 'Unique ID of the Kafka instance you want to view (if not provided, the current Kafka instance will be displayed)'
+
+[kafka.update.flag.owner]
+description = 'Description for the --owner flag'
+one = 'ID of the Kafka instance owner'
